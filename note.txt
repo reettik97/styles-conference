@@ -1,0 +1,13 @@
+Let’s switch gears a bit, moving away from HTML, and take a look at CSS. Remember, HTML will define the content and structure of our web pages, while CSS will define the visual style and appearance of our web pages.
+different between span and div ?
+header artical aside,section,,footer?
+different  between artical , div ,section? 
+nav tag?
+ 96 pixels in an inch
+ inline ,block ,block-inline in display?
+ float 
+ before after psdo code :
+ group before and after?
+ relative positon and absolute position?
+ min width?
+ label in HTML?
